@@ -30,18 +30,6 @@
 
 ---
 
-## 📂 Featured Projects (Coming Soon)
-Here’s what I’m building & showcasing here on GitHub:
-1. **🌐 Multi-Region SaaS Starter Kit** – Azure + Kubernetes, infra-as-code.  
-2. **📦 Event-Driven E-commerce Backend** – microservices with queues & retries.  
-3. **🤖 AI Chatbot with Azure OpenAI** – customer support integration demo.  
-4. **💳 Multi-Wallet Subscription System** – payments with fraud prevention.  
-5. **📕 Engineering Playbook** – best practices for teams (CI/CD, code reviews, incident mgmt).  
-
-👉 *Each repo will include an architecture diagram, docs, and deployment guides to reflect real-world engineering leadership.*  
-
----
-
 ## 🌍 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanmay-s-49195421)  
 - 📧 tanmayshahane.ts@gmail.com  
